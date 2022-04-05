@@ -60,6 +60,22 @@
   font-size: 1.5rem;
 }
 
+.connect {
+  background-color: #f58613;
+  border-style: none;
+  border-radius: 100px;
+  height: 40px;
+  width: 140px;
+  font-size: 14px;
+  color: #ffffff;
+  cursor: pointer;
+  box-shadow: 0 5px 50px 0 #000000;
+}
+
+.connect:hover {
+  background-color: #ce700b;
+}
+
 .code {
   background: #fafafa;
   border-radius: 5px;
